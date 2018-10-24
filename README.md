@@ -12,11 +12,13 @@ iii) javac SGUI.java
 iv) javac CGUI.java
 
 3. Run the Server GUI from the terminal as :-
+
 java SGUI
 
 4. Click on the 'Start' button at the GUI Widget. This starts the Server and listens for client connections.
 
 5. Run one/more clients from separate terminals as :-
+
 java Client
 
 ENJOY SOME MULTI-THREADING !!!!
